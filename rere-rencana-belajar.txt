@@ -3,6 +3,7 @@ Rencana belajar rere
 - mau belajar PHP 
 - belajar framework
   react
+  angular
 - belajar fisika
 - belajar bahasa inggris
 - persiapan TOEIC
